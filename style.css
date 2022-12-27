@@ -1,0 +1,35 @@
+img{
+    width: 300px;
+    height: 350px;
+}
+body{
+    margin: 0px;
+    background-color: darkslategrey;
+}
+#name{
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+.sect1{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    background-color: dimgray;
+}
+.introP{
+    padding: 80px;
+    font-size: large;
+}
+.sect2{
+    text-align: center;
+}
+.sect3{
+    background-color: dimgray;
+    margin: 0px;
+    padding: 40px;
+}
+
